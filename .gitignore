@@ -1,0 +1,8 @@
+/build/
+/bin/
+/*.json
+/*.json.claim/
+/*.json.writing
+/logs/
+.DS_Store
+__pycache__/
